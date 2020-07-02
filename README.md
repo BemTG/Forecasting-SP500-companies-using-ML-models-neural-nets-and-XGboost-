@@ -1,3 +1,4 @@
-# Stock-market-forecasting-using-sequential-neural-net-and-XGBoost-regression-models-
- 
+
+Forecasting the SP500 using ML models(neural nets and XGboost)
+
  
