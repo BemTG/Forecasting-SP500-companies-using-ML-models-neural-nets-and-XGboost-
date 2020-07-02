@@ -1,4 +1,4 @@
 
-Forecasting the SP500 using ML models(neural nets and XGboost)
+# Forecasting SP500 companies using ML models(neural nets and XGboost)
 
  
