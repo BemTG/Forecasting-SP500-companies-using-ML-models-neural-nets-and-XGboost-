@@ -12,6 +12,9 @@ link/MSFT (for Microsoft)
 
 link/AAPL (for Apple)
 
+
+http://stockmarketneuralnet-env.eba-scwvpdhd.eu-west-2.elasticbeanstalk.com/forecast
+
  
 
 
